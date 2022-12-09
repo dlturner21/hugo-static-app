@@ -5,11 +5,10 @@ theme = 'learn'
 themesdir = "../themes"
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  themeVariant = "blue"
+  editURL = "https://github.com/dlturner21/hugo-static-app/edit/main/TestDocSite/content"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
   disableMermaid = false
-  titleSeparator = "::"
+  ## titleSeparator = "::"
