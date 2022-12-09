@@ -5,7 +5,7 @@ theme = 'learn'
 themesdir = "../themes"
 
 [params]
-  editURL = "https://github.com/dlturner21/hugo-static-app/edit/main/TestDocSite/content"
+  editURL = "https://github.com/dlturner21/hugo-static-app/edit/main/TestDocSite/content/"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
