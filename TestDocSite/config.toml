@@ -11,4 +11,5 @@ themesdir = "../themes"
   disableNextPrev = false
   disableLandingPageButton = true
   disableMermaid = false
+  themeVariant = "blue"
   ## titleSeparator = "::"
