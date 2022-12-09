@@ -1,0 +1,15 @@
+baseURL = 'https://thankful-coast-0276afe10.2.azurestaticapps.net'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'learn'
+themesdir = "../.."
+
+[params]
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  themeVariant = "blue"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  disableMermaid = false
+  titleSeparator = "::"
